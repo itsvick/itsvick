@@ -23,19 +23,23 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
 [![Twitter Badge](https://img.shields.io/badge/-its_vick_k-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/its_vick_k/)](https://twitter.com/its_vick_k)
 [![Instagram Badge](https://img.shields.io/badge/-kasturevivek-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kasturevivek/)](https://instagram.com/kasturevivek)
 [![Gmail Badge](https://img.shields.io/badge/-vivekkasture8@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:vivekkasture8@gmail.com)](mailto:vivekkasture8@gmail.com)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=portfoliourl=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/website?color=e6370a&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fitsvick.github.io%2FdeveloperFolio)](https://itsvick.github.io/developerFolio)
 
 ## 👨‍💻 What I am doing..
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffcf40?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-4B8BBE?style=flat&logo=Angular&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-e6370a?style=flat&logo=Angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-323330?style=flat&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-38761d?style=flat&logo=vue&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-007ACC?style=flat&logo=ionic&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-c27ba0?style=flat&logo=electron&logoColor=white)
 <!-- ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=Redis&logoColor=white) -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
+<!-- ![PouchDB](https://img.shields.io/badge/-PouchDB-#6ccb99?style=flat&logoColor=white) -->
 <!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) -->
 <!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white) -->
@@ -52,4 +56,4 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvick&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itsvick.itsvick)
-![](https://hit.yhype.me/github/profile?user_id=2957624)
+![](https://hit.yhype.me/github/profile?user_id=20536805)
