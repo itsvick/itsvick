@@ -2,9 +2,7 @@
 
 <!--
 **itsvick/itsvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- ## Heyyy! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px"> -->
-
 I am Vivek, currently, working as a fullstack developer. I like to learn new technologies. If you have an idea feel free to contact me!!
 
+<!-- ============================================================================================================================== -->
 [![Linkedin Badge](https://img.shields.io/badge/vivek--kasture-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-kasture/)](https://www.linkedin.com/in/vivek-kasture/)
 [![Twitter Badge](https://img.shields.io/badge/-its_vick_k-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/its_vick_k/)](https://twitter.com/its_vick_k)
 [![Instagram Badge](https://img.shields.io/badge/-kasturevivek-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kasturevivek/)](https://instagram.com/kasturevivek)
 [![Gmail Badge](https://img.shields.io/badge/-vivekkasture8@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:vivekkasture8@gmail.com)](mailto:vivekkasture8@gmail.com)
 [![](https://img.shields.io/website?color=e6370a&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fitsvick.github.io%2FdeveloperFolio)](https://itsvick.github.io/developerFolio)
 
+<!-- ============================================================================================================================== -->
 ## 👨‍💻 What I am doing..
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffcf40?style=flat&logo=javascript&logoColor=white)
@@ -52,8 +50,13 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
+
+<!-- ============================================================================================================================== -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itsvick&count_private=true&show_icons=true&include_all_commits=true&custom_title=itsvick%27s%20github%20stats&hide_border=true&line_height=28)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvick&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
+
+<!-- ============================================================================================================================== -->
+<a href="https://app.daily.dev/itsvick"><img src="https://api.daily.dev/devcards/2b5b22414624451aa319cc6674f547ad.png?r=2c0" width="300" alt="Vivek's Dev Card"/></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itsvick.itsvick)
 ![](https://hit.yhype.me/github/profile?user_id=20536805)
