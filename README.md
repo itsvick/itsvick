@@ -56,6 +56,11 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvick&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10)
 
 <!-- ============================================================================================================================== -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ============================================================================================================================== -->
 <a href="https://app.daily.dev/itsvick"><img src="https://github.com/itsvick/itsvick/blob/main/devcard.svg?r=2c0" width="300" alt="Vivek's Dev Card"/></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itsvick.itsvick)
