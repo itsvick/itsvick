@@ -21,7 +21,7 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
 [![Linkedin Badge](https://img.shields.io/badge/vivek--kasture-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-kasture/)](https://www.linkedin.com/in/vivek-kasture/)
 [![Twitter Badge](https://img.shields.io/badge/-its_vick_k-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/its_vick_k/)](https://twitter.com/its_vick_k)
 [![Instagram Badge](https://img.shields.io/badge/-kasturevivek-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/kasturevivek/)](https://instagram.com/kasturevivek)
-[![](https://img.shields.io/website?color=e6370a&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fitsvick.github.io%2FdeveloperFolio)](https://itsvick.github.io/developerFolio)
+[![](https://img.shields.io/website?color=e6370a&style=flat-square&up_message=portfolio&url=https%3A%2F%2Fitsvick.github.io)](https://itsvick.github.io)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-vivekkasture8@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white&link=mailto:vivekkasture8@gmail.com)](mailto:vivekkasture8@gmail.com) -->
 
