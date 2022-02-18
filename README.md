@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF727&size=26&duration=4000&width=850&height=70&lines=Hello%2C+I+am+Vivek%2C+a+enthusiastic+fullstack+developer)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
