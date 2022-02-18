@@ -108,13 +108,13 @@ I am Vivek, currently, working as a fullstack developer. I like to learn new tec
       width="40" height="40" /> </a>
 </p>
 
-<p>Frontend Development:</p>
+<p>Backend Development:</p>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg#gh-light-mode-only"
       alt="nodejs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg#gh-light-mode-only"
       alt="express" width="40" height="40" /> </a>
 </p>
 
