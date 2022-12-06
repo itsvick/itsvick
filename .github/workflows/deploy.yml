@@ -33,4 +33,6 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@vivekkasture"
+                feed_list: "https://jrdeveloper.hashnode.dev/rss.xml"
+                #feed_list: "https://medium.com/feed/@vivekkasture"
+      
